@@ -120,11 +120,9 @@ body{
 /* Remove button */
 .trash{color:var(--danger)}
 
-/* Footer 
-.app-footer{margin-top:16px;text-align:center;color:var(--muted);font-size:0.9rem}  */
-
 /* Responsive */
 @media (max-width:520px){
   .todo-controls{flex-direction:column}
   .btn{width:100%}
 }
+
